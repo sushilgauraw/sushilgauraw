@@ -4,7 +4,7 @@
 + :ear_of_rice: I am currently  exploring everything.
 + :pushpin: Learing javascript and react.js 
 + :computer: Goal: Front-end Developer.
-+ :envelope:How to reach me: [sushilgauraw1996@gmail.com](sushilgauraw1996@gmail.com).
++ :envelope:How to reach me: [sushilgauraw1996@gmail.com](link url(sushilgauraw1996@gmail.com).
 + :label: fun fact: I love codding .
 ---
 ## Languages and Tools :
