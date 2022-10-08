@@ -3,7 +3,7 @@
 ## I'm a Programmer and  Web Developer.
 + :ear_of_rice: I am currently  exploring everything.
 + :pushpin: Learing javascript and react.js 
-+ :computer: Goal: Front-end Devloper.
++ :computer: Goal: Front-end Developer.
 + :envelope:How to reach me: [sushilgauraw1996@gmail.com](sushilgauraw1996@gmail.com).
 + :label: fun fact: I love codding .
 ---
