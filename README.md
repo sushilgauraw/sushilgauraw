@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript,React.js**
 
-- 📝 I regularly write articles on ![https://sushilgauraw.hashnode.dev/](https://sushilgauraw.hashnode.dev/)
+- 📝 I regularly write articles on [https://sushilgauraw.hashnode.dev/](https://sushilgauraw.hashnode.dev/)
 
 - 💬 Ask me about **Javascript,React.js**
 
