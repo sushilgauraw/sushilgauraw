@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://user-images.githubusercontent.com/77206991/124401730-bc0a8580-dcf0-11eb-9dbf-f1a4da1f441b.jpg)
 <h1 align="center">Hi 👋, I'm Sushil Gauraw</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="480" src="https://codemyui.com/wp-content/uploads/2019/07/15-Amazing-Free-UI-UX-Kits.gif">
